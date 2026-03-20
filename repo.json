@@ -1,1 +1,12 @@
-https://raw.githubusercontent.com/BestOmxr/doGiorsHadEnough/main/repo.json
+{
+  "name": "My Repo",
+  "description": "Cloudstream plugins",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "Plugin Name",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/plugin.cs3",
+      "version": 1
+    }
+  ]
+}
